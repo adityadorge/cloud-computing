@@ -11,4 +11,4 @@ INSERT INTO students (user_name,marks) VALUES
 ('pratham',90),
 ('mayur',71),
 ('pranav',0),
-('aditya',100)
+('aditya',100);
